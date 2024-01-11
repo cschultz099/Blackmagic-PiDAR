@@ -19,6 +19,13 @@ Tested & made for:
 ![Screenshot 2](imgs/20240110_213243.jpg)
 *Back*
 
+# Libraries Used
+
+- Kivy
+- Numpy
+- CV2
+- D-Bus & BlueZ
+
 ## Contributing
 
 Feel free to fork and improve on this project.
