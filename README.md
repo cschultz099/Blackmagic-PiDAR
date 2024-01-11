@@ -16,7 +16,7 @@ Tested & made for:
 ![Screenshot 1](imgs/20240110_213159.jpg)
 *Front*
 
-![Screenshot 2](images/screenshot2.jpg)
+![Screenshot 2](imgs/20240110_213243.jpg)
 *Back*
 
 ## Contributing
