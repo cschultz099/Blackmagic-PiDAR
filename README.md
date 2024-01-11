@@ -19,7 +19,7 @@ Tested & made for:
 ![Screenshot 2](imgs/20240110_213243.jpg)
 *Back*
 
-# Libraries Used
+## Libraries Used
 
 - Kivy
 - Numpy
