@@ -13,7 +13,7 @@ Tested & made for:
 
 3D printed protype case was made for this project.
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](imgs/20240110_213159.png)
 *Front*
 
 ![Screenshot 2](images/screenshot2.png)
