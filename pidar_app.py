@@ -455,8 +455,8 @@ class CameraControlApp(App, dbus.service.Object):
         self.oscillations = 0  # track oscillations
 
         # Calibration data
-        self.lidar_distances = [0, 1, 4]  # Initialize as a list
-        self.lens_positions = [0, 0, 0]  # Initialize as a list
+        self.lidar_distances = [0, 1, 4]  # Initialize as a list (Distance set to 0 meter, 1 meter, 4 meters)
+        self.lens_positions = [0, 0, 0]  # Initialize as a list (current lens focus motor position)
 
         self.calibration_data = {} # Initialize as a dictionary
 
