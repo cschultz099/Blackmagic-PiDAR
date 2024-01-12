@@ -8,6 +8,8 @@ Tested & made for:
 - Raspberry Pi 4/5
 - Benewake TF-Luna Lidar
 - Pisugar 3 Plus Battery
+- 3.5" DCI touchscreen
+- Blackmagic Pocket Cienema Camera 6k Pro/G2
 
 ## My current setup
 
