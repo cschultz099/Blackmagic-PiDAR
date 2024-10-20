@@ -25,7 +25,7 @@ class LensProfile:
         return {
             "name": self.name,
             "calibration_data": self.calibration_data,
-            "lens_position_data": self.lens_position_data  # Add this line
+            "lens_position_data": self.lens_position_data
         }
 
     @classmethod
